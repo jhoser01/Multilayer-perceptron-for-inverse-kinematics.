@@ -1,0 +1,21 @@
+[1] generacionDeDatos
+	Funciones:
+			generarDatos
+			restringirDatos
+			normalizar
+
+[2] entrenarRedNeuronal
+	Funciones:
+			normalizarPrueba
+			denormalizar
+			CD3prueba
+				denavit
+			RECMN
+
+[3] pruebaconTrayectorias
+			normalizarPrueba
+			denormalizar
+			CD3prueba
+				denavit
+			RECMN
+			
